@@ -1,0 +1,32 @@
+.text {
+    text-align: center;
+    color: white;
+    background-color: gray;
+    font-weight: 500;
+    width: 50%;
+    margin: 0 auto;
+    border-radius: 10px;
+    padding: 180px;
+}
+
+.input {
+    width: 50%;
+    border-radius: 5px;
+    padding: 13px;
+}
+
+button.btn {
+    padding: 13px;
+    border-radius: 5px;
+}
+
+.flx {
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+    gap: 10px;
+}
+
+.range {
+    cursor: pointer;
+}
